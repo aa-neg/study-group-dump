@@ -9,3 +9,7 @@ David: Name concepts/latent variables
 Baz:?
 
 Here's my github link https://github.com/Dawil/svd-bug-triage
+
+http://stackoverflow.com/questions/13530895/what-is-the-difference-between-svd-and-svm
+
+http://stats.stackexchange.com/questions/122213/latent-class-analysis-vs-cluster-analysis-differences-in-inferences
