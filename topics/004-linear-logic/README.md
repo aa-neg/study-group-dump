@@ -4,6 +4,9 @@ Linear Logic (LL) is a logic system in which deductions "consume" the starting f
 
 ## Resources
 
+* *[27 pages]* **A taste of linear logic**
+	+ http://homepages.inf.ed.ac.uk/wadler/papers/lineartaste/lineartaste-revised.pdf
+	+ This tutorial paper provides an introduction to intuitionistic logic and linear logic, and shows how they correspond to type systems for functional languages via the notion of ‘Propositions as Types’
 * *[26m video]* **Lucas Dixon: "Plans, actions and dialogue using linear logic"**
 	+ https://www.youtube.com/watch?v=gB7rvsfB8AQ
 	+ This lecture provides a good demonstration of LL's applications modelling plans, actions and dialogue. It seems approachable to beginners
